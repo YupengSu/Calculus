@@ -1,2 +1,10 @@
 # Calculus
-Undergraduate Course Calculus I/II
+> Senior Mentorship Class for Undergraduate Course Calculus I/II
+
+| Section | Slide | Practice | Recording |
+| --- | --- | --- | --- |
+| Calculus I Mid | [CalculusI-ALL](Slide/CalculusI-ALL.pdf) | [CalculusI-Mid21](Practice/CalculusI-Mid21.pdf) & [CalculusI-Mid22](Practice/CalculusI-Mid22.pdf) | 22Fall: [Part1](https://www.bilibili.com/video/BV1JD4y1b7oz), [Part2](https://www.bilibili.com/video/BV1H14y1L7FJ) & 23Fall: [Part2-1](https://www.bilibili.com/video/BV1Nc411R7wN), [Part2-2](https://www.bilibili.com/video/BV1gG41197aa) & 24Fall: [Part1](https://www.bilibili.com/video/BV1HfyYYmECv/), [Part2](https://www.bilibili.com/video/BV1vq1uYBEJw/) |
+| Calculus I Final | [CalculusI-ALL](Slide/CalculusI-ALL.pdf) | [CalculusI-Final21](Practice/CalculusI-Final21.pdf) | 22Fall: [Part1](https://www.bilibili.com/video/BV1oW4y1N762), [Part2](https://www.bilibili.com/video/BV1wD4y1L7HN) & 23Fall: [Part1](https://www.bilibili.com/video/BV1LN4y1W7fz/), [Part2](https://www.bilibili.com/video/BV1qK41147vU/) & 24Fall: [ALL](https://www.bilibili.com/video/BV1MoCgYoENQ/) |
+| Calculus II Mid | [CalculusII-Part1](Slide/CalculusII-Part1.pdf) | [CalculusII-Mid20](Practice/CalculusII-Mid20.pdf) & [CalculusII-Mid22](Practice/CalculusII-Mid22.pdf) & [CalculusII-Mid23](Practice/CalculusII-Mid23.pdf) | 23Spring: [Part1](https://www.bilibili.com/video/BV1Uk4y147bY/), [Part2](https://www.bilibili.com/video/BV1fc411p7KM/) & 24Spring: [Part1-1](https://www.bilibili.com/video/BV1em421n7j2/), [Part1-2](https://www.bilibili.com/video/BV1cK421v7TC/), [Part2-1](https://www.bilibili.com/video/BV1w1421S7y6/), [Part2-2](https://www.bilibili.com/video/BV1cA4m1w7oG) |
+| Calculus II Final | [CalculusII-Part2](Slide/CalculusII-Part2.pdf) | [CalculusII-Final18](Practice/CalculusII-Final18.pdf) & [CalculusII-Final19](Practice/CalculusII-Final19.pdf) & [CalculusII-Final20](Practice/CalculusII-Final20.pdf) & [CalculusII-Final21](Practice/CalculusII-Final21.pdf) | 23Spring: [Part1](https://www.bilibili.com/video/BV1yh4y147vt/), [Part2](https://www.bilibili.com/video/BV1aP411D75Y/) & 24Spring: [Part1-1](https://www.bilibili.com/video/BV17n4y1d71h/), [Part1-2](https://www.bilibili.com/video/BV17i421v7hK/), [Part2-1](https://www.bilibili.com/video/BV1WD421M7Qt/), [Part2-2](https://www.bilibili.com/video/BV1Eb421v7cZ/) |
+
